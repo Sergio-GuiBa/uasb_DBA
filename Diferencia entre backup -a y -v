@@ -1,0 +1,1 @@
+El backup con -a solo respalda los datos de cada tabla, encambio con -v se respalda todo el esquema.
